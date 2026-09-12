@@ -23,7 +23,7 @@ function desafio6() {
   }, [filme]);
 
   const MudarFilme = () => {
-    setFilme(Math.floor(Math.random() * 20));
+    setFilme(Math.floor(Math.random(20) * 20));
   };
 
   return (
