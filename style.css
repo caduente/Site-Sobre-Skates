@@ -1,0 +1,54 @@
+header{
+  height: 200px;
+}
+
+header{
+  background-image: url(https://i.pinimg.com/564x/c3/38/9c/c3389c026961e6cce87eb54d4a0597b8.jpg);
+  background-position: center;
+  background-size: 14%;
+  background-repeat: repeat;
+
+}
+
+header h1{
+  color: rgb(61, 59, 59);
+  
+}
+
+header h2{
+  font-size: 30px;
+  color: rgb(61, 59, 59);
+}
+
+div{
+  background-color: cadetblue;
+}
+
+img{
+  height: 200px;
+}
+
+#erro{
+  background-image: url(https://pt.quizur.com/_image?href=https://img.quizur.com/f/img61bcc2e73ef746.50777391.png?lastEdited=1639760659&w=600&h=600&f=webp);
+  height: 100vh;
+}
+#erro p{
+  color: rgb(68, 68, 126);
+}
+
+#erro h1{
+  color: rgb(68, 68, 126);
+}
+
+#padrao{
+  background-image: url(https://i.pinimg.com/474x/e3/7f/6c/e37f6cf14644920cdea74796882c42a2.jpg);
+  height: 50vh;
+}
+
+#padrao p{
+  color: rgb(68, 68, 126);
+}
+
+#padrao h1{
+  color: rgb(68, 68, 126);
+}
